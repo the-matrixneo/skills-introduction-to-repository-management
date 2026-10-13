@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @the-matrixneo
+/src/backend/database.py      @the-matrixneo
+/src/backend/routers/auth.py  @the-matrixneo
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @the-matrixneo
